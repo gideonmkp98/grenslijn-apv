@@ -1,0 +1,68 @@
+site_name: Grenslijn Roleplay APV
+site_description: Algemene Plaatselijke Verordening van Grenslijn Roleplay
+site_author: Grenslijn Roleplay Staff Team
+
+theme:
+  name: material
+  language: nl
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Schakel naar donkere modus
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Schakel naar lichte modus
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.prune
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+# Navigation
+nav:
+  - Home: index.md
+  - Openbare Orde: openbare-orde.md
+  - Criminele Activiteiten: criminele-activiteiten.md
+  - Overige Bepalingen: overige-bepalingen.md
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+# Plugins
+plugins:
+  - search:
+      lang: nl
+
+# Extra CSS
+extra_css:
+  - stylesheets/extra.css
