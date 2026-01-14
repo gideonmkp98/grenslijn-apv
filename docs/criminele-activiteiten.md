@@ -7,7 +7,7 @@
 
 ---
 
-## Artikel 26 - Overvallen & Oplichten
+## Artikel 25 - Overvallen & Oplichten
 
 1. Het is alleen toegestaan om iemand te overvallen en/of te bestelen indien deze persoon bezig is met criminele activiteiten. Je moet hier concreet en aantoonbaar bewijs van hebben (beeldmateriaal), ook wanneer iemand via de radio meldt dat er criminele activiteiten plaatsvinden.
 
@@ -31,11 +31,11 @@ Onder criminele activiteiten worden in deze context onder andere de volgende voo
 !!! danger "Verboden"
     - Geld dat op de bank staat
     - Drugsloodsen
-    - Burgers bij het gemeentehuis
     - Voorwerpen en/of dienstwapens die behoren tot de uitvoering van een overheidsbaan
     - Voertuigen in welke vorm dan ook
     - Onder dwang iemands woning betreden en leegroven
     - De inhoud van kluizen van verified of officiële gangs
+    - Als officiële gang je eigen klanten rippen bij het witwassen
 
 ### Regels rondom scammen
 
@@ -44,9 +44,8 @@ Onder criminele activiteiten worden in deze context onder andere de volgende voo
 !!! example "Voorbeeld"
     A verkoopt een wapen aan B. B ript het wapen, of A ript het terug met behulp van anderen. Hands up is hierbij vereist.
 
-!!! warning "Limieten"
-    - Scams zijn alleen toegestaan tot een maximum van €2.000.000. Dit betekent dat de totale waarde van de scam, inclusief goederen of contant geld, niet meer dan 2 miljoen mag bedragen
-    - Geld of spullen uitlenen is op EIGEN RISICO!
+!!! warning "Let op"
+    Geld of spullen uitlenen is op EIGEN RISICO!
 
 5. Het oplichten met voertuigen is niet toegestaan. Hieronder valt het ruilen van auto's zonder deze te leveren, het verkopen van auto's zonder levering, of het liegen over tunes en de staat van het voertuig.
 
@@ -55,7 +54,7 @@ Onder criminele activiteiten worden in deze context onder andere de volgende voo
 
 ---
 
-## Artikel 27 - Criminaliteit & Ambtenaren
+## Artikel 26 - Criminaliteit & Ambtenaren
 
 1. Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook bezig te houden met illegale praktijken of illegale spullen in bezit te hebben, als dit niet ten behoeve is van de uitvoering van hun baan. Dit is op beoordeling van een stafflid. Voorafgaand aan de start bij de overheidsbaan is het vereist dat medewerkers geen illegale zaken meer in hun bezit hebben.
 2. Een uitzondering op deze regel is voor pechhulp. Als pechhulp medewerker is het toegestaan om actief te zijn in de onderwereld. Echter is corruptie als pechhulp medewerker nogsteeds NIET toegestaan.
@@ -66,7 +65,6 @@ Onder criminele activiteiten worden in deze context onder andere de volgende voo
     - Politiekorps
     - Ambulancezorg
     - Ministerie van Justitie
-    - Gemeente OG
 
 4. Indien een overheidsmedewerker betrapt wordt op het bezighouden met illegale praktijk zal dit naast de basisstraf resulteren in ontslag op staande voet bij de organisatie in kwestie.
 
@@ -88,7 +86,7 @@ Onder criminele activiteiten worden in deze context onder andere de volgende voo
 
 ---
 
-## Artikel 28 - Overheidsvoertuigen
+## Artikel 27 - Overheidsvoertuigen
 
 1. Het is niet toegestaan om overheidsvoertuigen te tunen.
 2. Het is alleen toegestaan om overheidsvoertuigen te besturen indien jij in dienst bent bij de desbetreffende overheidsdienst.
@@ -99,7 +97,7 @@ Onder criminele activiteiten worden in deze context onder andere de volgende voo
 
 ---
 
-## Artikel 29 - Juist gebruik van baan voertuigen
+## Artikel 28 - Juist gebruik van baan voertuigen
 
 1. Het is verplicht om gebruik te maken van het voertuig wat je hebt gekregen van de werkgever indien dit van toepassing is.
 2. Het is niet toegestaan om voertuigen verleend door legale werkgevers te gebruiken voor illegale praktijken.
@@ -109,10 +107,10 @@ Onder criminele activiteiten worden in deze context onder andere de volgende voo
 
 ---
 
-## Artikel 30 - Overval Regels
+## Artikel 29 - Overval Regels
 
 1. Het is de verplichting van de OC ('Operationeel Centrum') van de de politie en/of de KMar om een juiste en realistische inschatting te maken hoeveel agenten er nodig zijn voor een overval.
-2. Je krijgt per hostage 2 eisen. Er zit een max van 8 eisen bij een overval.
+2. Je krijgt per hostage 1 eisen. Er zit geen limiet op de maximaal aantal eisen.
 
 ### Verboden hostage locaties
 
@@ -127,18 +125,17 @@ Onder criminele activiteiten worden in deze context onder andere de volgende voo
 
 ---
 
-## Artikel 31 - Wraak en liquidaties
+## Artikel 30 - Wraak en liquidaties
 
 1. Het is alleen toegestaan om iemand te liquideren als het slachtoffer in kennis is van de reden hierachter. Het is dus de bedoeling dat dit aan het slachtoffer duidelijk wordt gemaakt voor hij geliquideerd wordt.
-2. Als je van het leven bent beroofd is het niet toegestaan om in de komende 24 uur na deze actie mee te doen aan eventuele wraakacties op de persoon en/of groep die jou van het leven heeft beroofd.
-3. Wraak mag enkel binnen 48 uur na het scenario plaatsvinden, mits deze persoon ook echt in de stad is.
+2. Wraak mag enkel binnen 48 uur na het scenario plaatsvinden, mits deze persoon ook echt in de stad is.
 
 !!! danger "Straf"
     **Categorie 2:** een ban van maximaal 1 dag
 
 ---
 
-## Artikel 32 - Gedrag tegen overheidsmedewerkers
+## Artikel 31 - Gedrag tegen overheidsmedewerkers
 
 1. Het is niet toegestaan om ambulancepersoneel te vermoorden, te beledigen of anderszins te hinderen.
 2. Er wordt verwacht dat je een eerlijke en realistische beschrijving geeft van je verwondingen wanneer je geholpen wordt door de ambulancezorg. Liegen over wat er is gebeurd is niet toegestaan.
@@ -152,12 +149,7 @@ Onder criminele activiteiten worden in deze context onder andere de volgende voo
 
 ### Ontvoeren overheidsmedewerkers
 
-10. Het is alleen toegestaan om een overheidsmedewerker te ontvoeren indien de aantallen in dienst corresponderen met de specificatie hieronder:
-
-!!! info "Aantallen"
-    - **Politiekorps:** Per 6 agenten in dienst mag er 1 agent ontvoerd worden
-    - **KMar:** Per 6 KMar-leden mag er 1 lid ontvoerd worden
-    - **Ambulancezorg:** Per 8 ambulancemedewerkers in dienst mag er 1 ontvoerd worden
+10. Het ontvoeren van politieagenten is toegestaan, zolang er minimaal 3 agenten in dienst overblijven.
 
 ### Impound forceren
 
@@ -172,25 +164,30 @@ Onder criminele activiteiten worden in deze context onder andere de volgende voo
 
 ---
 
-## Artikel 33 - Basis criminele organisaties
+## Artikel 32 - Basis criminele organisaties
 
 1. Met de term 'criminele organisaties' worden alle officiele & verified groeperingen bedoeld.
-2. Op het moment mogen criminele organisaties maximaal 20 leden hebben. Dit is inclusief leden die een proefperiode begaan bij een criminele organisatie en nog niet officieel zijn opgenomen binnen de organisatie.
+2. Op het moment mogen criminele organisaties maximaal 25 leden hebben. Dit is inclusief leden die een proefperiode begaan bij een criminele organisatie en nog niet officieel zijn opgenomen binnen de organisatie.
 3. Bij overtreding van lid 2 zal in de basis een straf van de eerste categorie worden opgelegd aan het leiderschap van de organisatie. Indien het vaker voorkomt wordt deze straf logischerwijs opgeschaald naar een officiele waarschuwing voor de organisatie.
 4. Bij overtreding van lid 4 en/of 5 zullen de betreffende organisaties in de basis een straf van de eerste categorie krijgen. Indien het vaker voorkomt wordt deze straf logischerwijs opgeschaald naar een officiele waarschuwing voor alle betrokken criminele organisaties.
 
 ---
 
-## Artikel 34 - Gedrag criminele organisaties
+## Artikel 33 - Gedrag criminele organisaties
 
-1. Van criminele organisaties (zoals benoemd in artikel 34 - basis criminele organisaties) wordt verwacht dat zij een voorbeeldige roleplay neerzetten.
+1. Van criminele organisaties (zoals benoemd in artikel 32 - basis criminele organisaties) wordt verwacht dat zij een voorbeeldige roleplay neerzetten.
 2. Indien leden van een criminele organisatie opmerkelijk veel in de aandacht komt bij het staffteam (op een negatieve manier) kan het managementteam contact opnemen met het leiderschap van de organisatie over de toekomst van dit lid en/of leden.
 3. Wanneer het managementteam van mening is dat een criminele organisatie niet past binnen het profiel, bijvoorbeeld door veel officiële groep waarschuwingen of individuele straffen, kunnen zij besluiten om een passende strafmaatregel op te leggen tegen (alle) leden van de betreffende criminele organisatie.
 4. Het beheer behoudt zich het recht om in het uiterste geval in lid 3 een criminele organisatie te schorsen wegens extreem wangedrag.
 
 ---
 
-## Artikel 35 - Regels criminele organisaties
+## Artikel 34 - Regels criminele organisaties
+
+!!! warning "LET OP - ARTIKEL WORDT HERSCHREVEN"
+    **DIT ARTIKEL ZAL IN DE TOEKOMST VOLLEDIG HERSCHREVEN WORDEN.**
+    
+    Tot die tijd dient een stafflid naar eigen inzicht te handelen op basis van de situatie. De huidige regels hieronder zijn nog van toepassing, maar kunnen door staff worden aangepast afhankelijk van de context.
 
 1. Het creëren van valse meldingen in de buurt van een gang-huis met als doel criminelen uit te lokken of rivaliserende groepen in de problemen te brengen, is ten strengste verboden.
 2. Het is voor criminele organisaties niet toegestaan om samen te werken. Hieronder wordt verstaan maar niet beperkt tot:
@@ -206,7 +203,7 @@ Onder criminele activiteiten worden in deze context onder andere de volgende voo
 
 ---
 
-## Artikel 36 - Overvallen
+## Artikel 35 - Overvallen
 
 1. Het is niet toegestaan om een overval te starten een half uur voor en een half uur na de restarts.
 
@@ -219,65 +216,39 @@ Onder criminele activiteiten worden in deze context onder andere de volgende voo
 5. Eventueel NPC's die aanwezig zijn bij een winkeloverval tellen niet mee als gijzelaars.
 6. Het gebruik maken van outside hostages is alleen toegestaan indien er bewijs geleverd kan worden dat deze ook daadwerkelijk gijzel genomen zijn.
 7. Het is niet toegestaan om een onderhandelaar te gijzelen.
-
-### Maximaal aantal overvallers
-
-8. Er is een maximaal aantal overvallers toegestaan:
-
-!!! info "Maximum per overval"
-    - Maximaal 3 overvallers bij een winkel
-    - Maximaal 4 overvallers bij een kleine bank
-    - Maximaal 5 overvallers bij een juwelier
-    - Maximaal 6 overvallers bij de grote bank
-
-9. Hypercars en supercars mogen niet gebruikt worden bij overvallen.
-10. Een overval mag gecounterd worden, totdat de politie of KMAR is begonnen met de afzetting. **Indien de politie begonnen is met het neerzetten van de afzetting, moeten ze deze ook meteen afmaken!**
-11. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
+8. Hypercars en supercars mogen niet gebruikt worden bij overvallen.
+9. Een overval mag gecounterd worden, totdat de politie is begonnen met de afzetting. **Indien de politie begonnen is met het neerzetten van de afzetting, moeten ze deze ook meteen afmaken!**
+10. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
 
 !!! danger "Straf"
     **Categorie 4:** een ban van maximaal 3 dagen
 
 ---
 
-## Artikel 37 - Campen
+## Artikel 36 - Campen
 
 1. Het is niet toegestaan om te campen op een locatie betrokken bij illegale praktijken met de intentie om bijvoorbeeld mensen te overvallen of te vermoorden.
-2. Onder lid 1 wordt verstaan: wanneer jij verdacht lang binnen 100 meter van een locatie bent zonder goede aanleiding. Dit geldt ook voor overheidsdiensten.
 
 !!! danger "Straf"
     **Categorie 2:** een ban van maximaal 1 dag
 
 ---
 
-## Artikel 38 - Rippen
+## Artikel 37 - Rippen
 
 1. Het is niet toegestaan om dezelfde persoon binnen een uur meerdere malen te overvallen en/of te gijzelen.
-2. Regel 1 geldt alleen voor drugs op een pluk locatie.
-3. Uitzondering op lid 1 is wanneer het slachtoffer in kwestie binnen het uur zijn kleding zodanig heeft veranderd dat hij niet meer te herkennen valt als eerst.
-4. Het is alleen toegestaan om iemand te rippen als deze bezig is met criminele praktijken zoals aangegeven in Artikel 26 - overvallen & oplichten.
-5. Iemand dwingen om zijn voertuig uit de garage te halen zonder scenario aan te gaan, is niet toegestaan.
-6. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan.
-7. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
-8. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoordt, dien je de spullen te droppen.
-9. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
-10. Het is niet toegestaan om na een overval met een voertuig in of achter de achtervolging aan te rijden.
-11. Airdrops mogen geript worden. **Let op!** Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
+2. Het is alleen toegestaan om iemand te rippen als deze bezig is met criminele praktijken zoals aangegeven in Artikel 26 - overvallen & oplichten.
+3. Iemand dwingen om zijn voertuig uit de garage te halen zonder scenario aan te gaan, is niet toegestaan. Dit mag alleen als je iemand zijn auto in de garage hebt zien zetten.
+4. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan.
+5. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
+6. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoordt, dien je de spullen te droppen.
+7. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
+8. Het is niet toegestaan om na een overval met een voertuig in of achter de achtervolging aan te rijden.
+
+!!! info "Bewijsplicht"
+    Een stafflid behoudt zich te allen tijde het recht om bewijs op te vragen van de situatie.
 
 !!! danger "Straf"
     **Categorie 2:** een ban van maximaal 1 dag
 
 ---
-
-## Artikel 40 - Witwassen
-
-1. Witwassers overvallen is toegestaan wanneer minimaal één van onderstaande punten van toepassing is.
-
-!!! info "Toegestaan wanneer"
-    - De persoon gezichtsbedekking of beschermende kleding zoals een body armor draagt
-    - Een persoon verdachte handelingen doet die niet passen bij de baan die de persoon op dat moment uitvoert
-    - De overvaller dient op het moment van overvallen beelden te kunnen overhandigen aan de staffleden. Mocht dit niet mogelijk zijn zal het direct teruggedraaid worden en zal er een straf komen van de 1e categorie
-    - Het campen of opwachten op witwas locaties en het depot is verboden
-    - Wanneer je een toeter hoort van een stilstaande vuilniswagen mag je hem rippen
-
-!!! danger "Straf"
-    **Categorie 2:** een ban van maximaal 1 dag

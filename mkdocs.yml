@@ -5,6 +5,8 @@ site_author: Grenslijn Roleplay Staff Team
 theme:
   name: material
   language: nl
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"

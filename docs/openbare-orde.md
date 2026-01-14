@@ -14,36 +14,7 @@ Het is niet toegestaan om bewust een oneerlijke of onrealistische wending te gev
 !!! danger "Straf"
     **Categorie 2:** een ban van maximaal 1 dag
 
-### 1.3 Voorbeelden van FailRP en Powergaming
-
-!!! example "Niet toegestaan"
-    - Niet op geloofwaardige wijze deelnemen aan een roleplayscenario
-    - Tijdens een achtervolging je voertuig in de garage zetten om herkenning te voorkomen. Bij een voertuigwisseling tijdens een achtervolging moet het oude voertuig blijven staan
-    - Geen realistische reactie tonen op verwondingen en/of medische situaties, zoals bij een crash boven de 100 km/u of wanneer je voertuig over de kop slaat
-    - Misbruik maken van het F6-menu, bijvoorbeeld door iemand te fouilleren zonder dit aan te kondigen
-    - Voor een onrealistisch lange periode blijven zwemmen in het water (beoordeling door stafflid)
-    - Gebruik maken van je portofoon of telefoon terwijl je zwemt
-    - Voertuigen stelen zonder passende roleplay
-    - Misbruik maken van de emote-functionaliteit
-    - Een agent ontvoeren met als doel een signalering te verwijderen of inzage te krijgen in het politiesysteem (MEOS)
-    - Iemand direct handsup geven nadat deze door de ambulance is gereanimeerd. Laat de ambulance eerst hun werk afronden (geldt voor beide partijen!)
-    - Politiemedewerkers dwingen om een bewusteloos persoon te fouilleren en items zoals wapens af te nemen en over te dragen
-    - Gebruik maken van persoonlijke keybinds voor commando's zoals /me of /th
-    - Zonder aanleiding ambulancemedewerkers overvallen om bijvoorbeeld wapens te bemachtigen
-    - Zonder enige aanleiding kofferbakken controleren
-    - Zonder roleplay spullen uit iemands voertuig halen, ook niet op illegale locaties. **LET OP:** Indien je jouw voertuig open laat staan op een illegale locatie en er worden spullen uitgehaald, ontvang je geen refund (zie ook Artikel 38 - Rippen). **Op onterecht stelen staat een ban van 3 dagen**
-    - Het gebruik van /me commando's zoals: "/me duwt uit auto", "/me doet auto open", "/me pakt sleutels af", "/me boeit vast", "/me slaat knock out". Deze handelingen moeten verbaal worden uitgesproken
-    - Het toedienen van een 'vergeetspuit' bestaat niet. Je mag wel een injectie of drankje geven waardoor iemand 15 minuten lang vergeetachtig is. Daarna mag de persoon zich alles weer herinneren
-    - De Z-spier gebruiken om spelers te lokaliseren tijdens scenario's
-    - Vluchten naar je woning of een Greenzone tijdens een actief scenario
-    - Politie- en/of KMar-medewerkers dwingen om uit dienst te gaan
-    - Een persoon carryen
-    - Verwerken of verkopen vanuit een voertuig
-    - Onder dwang iemands voertuig uit de garage laten halen, tenzij het specifieke voertuig aantoonbaar betrokken was bij illegale activiteiten en je deze persoon actief hebt achtervolgd
-    - AFK staan is op eigen risico
-    - Een band leksteken is alleen toegestaan tijdens een actief scenario met de betreffende persoon. Bij misbruik kan staff besluiten je mes in beslag te nemen
-
-### 1.4 Fail-RP (geen intentie tot roleplay)
+### 1.3 Fail-RP (geen intentie tot roleplay)
 
 !!! warning "Zeer ernstige overtreding"
     Enkele voorbeelden van gedrag zonder intentie tot roleplay zijn:
@@ -125,10 +96,8 @@ Het is niet toegestaan om bewust een oneerlijke of onrealistische wending te gev
     - Informatie verkregen uit content over Grenslijn, zoals livestreams of YouTube-video's
     - Informatie verkregen via communicatie buiten het spel, bijvoorbeeld door in een Discord-call te zitten met mensen die ook in Grenslijn spelen
 
-3. Het is niet toegestaan om in een Discord-call te zitten wanneer je in Grenslijn speelt (ook niet gemute!)
-4. Het is niet toegestaan om zonder toestemming van management een eigen server te maken voor je bedrijf of groepering.
-5. Om meta-gaming te controleren kan het managementteam videomateriaal van een scenario opvragen. Dit videomateriaal moet ook audiomateriaal bevatten. Indien hier niet aan voldaan kan worden, wordt dezelfde straf opgelegd.
-6. Als lid van een criminele organisatie ben je verplicht om gemute in de daarvoor aangewezen voice channels te zitten. Wanneer je in de stad bent en niet in dat kanaal zit zonder goede reden, kan een stafflid hier een sanctie op zetten.
+2. Om meta-gaming te controleren kan het managementteam videomateriaal van een scenario opvragen. Dit videomateriaal moet ook audiomateriaal bevatten. Indien hier niet aan voldaan kan worden, wordt dezelfde straf opgelegd.
+3. Als lid van een criminele organisatie ben je verplicht om gemute in de daarvoor aangewezen voice channels te zitten. Wanneer je in de stad bent en niet in dat kanaal zit zonder goede reden, kan een stafflid hier een sanctie op zetten.
 
 !!! danger "Straf"
     **Categorie 4:** een ban van maximaal 3 dagen
@@ -143,9 +112,8 @@ Het is niet toegestaan om bewust een oneerlijke of onrealistische wending te gev
 
 ### Organisaties van toepassing op lid 1 en 2:
 - Politiekorps Grenslijn
-- Koninklijke Marechaussee
 - Ambulancezorg
-- Pechhulp
+- West Coast Garage
 
 !!! danger "Straf"
     **Categorie 1:** een waarschuwing
@@ -155,7 +123,7 @@ Het is niet toegestaan om bewust een oneerlijke of onrealistische wending te gev
 ## Artikel 7 - Copbaiting
 
 1. Het is niet toegestaan om opzettelijk de aandacht proberen te trekken van politieagenten en/of KMar-leden of hun van hun werk proberen te houden zonder goede aanleiding.
-2. Als de politie en/of KMar je wil aanspreken voor een reguliere controle en je besluit weg te rijden, terwijl je geen illegale goederen bij je hebt, valt dit onder copbaiting.
+2. Als de politie je wil aanspreken voor een reguliere controle en je besluit weg te rijden, terwijl je geen illegale goederen bij je hebt, valt dit onder copbaiting.
 
 !!! danger "Straf"
     **Categorie 2:** een ban van maximaal 1 dag
@@ -219,66 +187,21 @@ Het is niet toegestaan om bewust een oneerlijke of onrealistische wending te gev
 
 ---
 
-## Artikel 13 - Deelname aan het verkeer
-
-1. Het is niet toegestaan om onrealistische rijstijlen aan te nemen.
-
-!!! example "Voorbeelden"
-    - Het onnodig rammen en/of beuken van andere voertuigen zonder goede aanleiding
-    - Gebruik maken van de zogenoemde 'jumps' of 'ramps' verspreid door de stad
-    - Met een sportwagen over een onverharde weg rijden
-    - Met je voertuig gebouwen inrijden, die hier niet voor bedoeld zijn
-    - Een voertuig mag geen lichter voertuig pitten of brake checken, de volgorde gaat als volgt:
-        1. Motorvoertuigen
-        2. Sportauto's en hypercars
-        3. Personenauto's, zoals Sedan en Coupes
-        4. SUV's
-        5. Bussen en vrachtwagens
-
-3. Het is alleen toegestaan om af te wijken van de geasfalteerde wegen indien het voertuig dat je gebruikt voldoet aan de classificatie die is gesteld aan het betreffende type terrein. Voertuigen die zich buiten de geasfalteerde wegen mogen bevinden en hun classificaties zijn te raadplegen door hier te klikken.
-4. Het is alleen toegestaan om met je vliegtuig/heli te landen op helipads of landingsbanen.
-
-!!! danger "Straf"
-    **Categorie 1:** een waarschuwing
-
----
-
-## Artikel 14 - No Value Of Life
+## Artikel 13 - No Value Of Life
 
 1. Er wordt verwacht dat jij waarde hecht aan het leven van jouw karakter en respecteert deze zoals in het echt.
 
-!!! example "Voorbeelden"
-    - Indien er een vuurwapen op je gericht staat in de shouting voice range wordt er verwacht dat je blijft staan en mee werkt. Je dropt je items direct. Indien dit met een geldige reden (roleplay technisch) niet lukt, heb je 10 seconde om je spullen te droppen
-    - Terwijl je onder schot staat is het niet de bedoeling dat je deze persoon benadert op welke manier dan ook. Er wordt verwacht dat je meewerkt en waarde hecht aan je leven
-    - Met een helikopter en/of vliegtuig vlak boven de grond vliegen of tussen gebouwen door
-    - Het is niet toegestaan om weerstand te bieden tegen een slag- of steekwapen wanneer deze binnen een meter van jou is. Buiten een meter is het wel toegestaan om een vuurwapen te trekken. Een boksbeugel valt hier niet onder!
-    - Het valt onder No Value Of Life wanneer jij provocerend gedrag vertoont wanneer er een wapen op je gericht staat
-    - Het is niet toegestaan om al rijdend een ander voertuig te blokkeren. Je mag wel blokkeren, maar enkel als je stil staat
-    - Het valt niet onder no value of life indien je met een slag- of steekwapen bedreigd wordt, terwijl je jezelf in een voertuig met gesloten ramen en deuren bevindt
-    - Je mag wegrijden van een taser, behalve wanneer jij al getazerd bent
-    - Schieten op iemand die een een vuur-wapen heeft gericht op iemand via /th
-    - Het is niet toegestaan om een zelfmoordscenario op te zetten
-    - Indien je in je benen bent geschoten en de andere partij binnen shouting range staat, mag je niet meer op staan
-    - Het is niet NVOL wanneer iemand een wapen op jou richt als je al aan het rijden bent, je mag dan wegrijden
-
-### Schieten tijdens /th
-Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als volgt:
-
-- Als je iemand met een mes in je hand /th hebt, mag er op je geschoten worden met een pistol of hoger
-- Als je iemand met een pistol in je hand /th hebt, mag er op je geschoten worden met een wapen groter dan een pistol
-
 ### Aanvullende regels
 
-4. Het is enkel toegestaan om van een brug af te springen, indien je een parachute bij je hebt. Criminelen springen nu non stop van de brug af om te ontsnappen tijdens een achtervolging.
-5. Het valt onder NVOL wanneer je achter vuurwapen gevaarlijke mensen aanrijdt, terwijl je zelf geen vuurwapen bij je hebt.
-6. Een stafflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
+2. Het valt onder NVOL wanneer je achter vuurwapen gevaarlijke mensen aanrijdt, terwijl je zelf geen vuurwapen bij je hebt.
+3. Een stafflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
 
 !!! danger "Straf"
     **Categorie 4:** een ban van maximaal 5 dagen
 
 ---
 
-## Artikel 15 - New Life Rule
+## Artikel 14 - New Life Rule
 
 1. Als jouw karakter is komen te overlijden wordt er verwacht dat jij alle roleplay voor jouw dood vergeten bent. Zoals: locaties, personen, situaties en aanleidingen indien er specifiek vermeld wordt dat jij die moet vergeten.
 2. In het kader van lid 1 is het niet toegestaan om informatie te gebruiken die je hebt ontvangen van bijvoorbeeld vrienden na jouw dood.
@@ -288,7 +211,7 @@ Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als vol
 
 ---
 
-## Artikel 16 - Microfoon
+## Artikel 15 - Microfoon
 
 1. Het is tijdens het spelen ten allen tijden verplicht om een werkende microfoon te hebben waarin je duidelijk te verstaan bent.
 2. Indien jouw microfoon het spontaan begeeft of iets dergelijk is het zaak dat je dit via bijvoorbeeld /me of via discord vermeld aan de andere partij.
@@ -299,7 +222,7 @@ Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als vol
 
 ---
 
-## Artikel 17 - Nederlandse Taal
+## Artikel 16 - Nederlandse Taal
 
 1. Er wordt van spelers verwacht de Nederlandse of Engelse taal te beheersen. Indien iemand de Nederlandse of Engelse taal niet beheerst is deze persoon niet welkom op de server.
 2. Het is niet toegestaan om andere talen dan Nederlands of Engels op een provocerende manier te gebruiken in een roleplay scenario.
@@ -311,13 +234,13 @@ Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als vol
 
 ---
 
-## Artikel 18 - Reporting
+## Artikel 17 - Reporting
 
 1. De in-game functie om spelers te rapporteren (/report) is alleen gediend om gebruikt te worden in gevallen dat dit ter plekke opgelost kan worden. Het is niet de bedoeling om voor eigen rechter te gaan spelen.
-2. Bij een overtreding van een regel van een andere speler is het altijd zaak dat er een report of een ticket in de OG support discord wordt gemaakt met voldoende bewijsmateriaal indien nodig.
+2. Bij een overtreding van een regel van een andere speler is het altijd zaak dat er een report of een ticket in de Grenslijn support Discord wordt gemaakt met voldoende bewijsmateriaal indien nodig.
 3. Indien je een report maakt in-game is het de bedoeling dat je dit beschouwt als OOC-informatie. Je mag dus ook niet met anderen delen dat jij een report hebt gemaakt of het tegen de persoon zelf zeggen.
 4. Het is niet toegestaan om misbruik te maken van de /report functionaliteit om onterecht voordeel te behalen.
-5. Zodra je een ticket wilt aanmaken voor een scenario waar je het niet mee eens bent, dan moet dat binnen 48 uur na het scenario. (Dit is om te voorkomen dat we spullen na een te lange tijd moeten weghalen bij spelers en het lange zoeken in de logs).
+5. Zodra je een ticket wilt aanmaken voor een scenario waar je het niet mee eens bent, dan moet dat binnen 5 dagen na het scenario. (Dit is om te voorkomen dat we spullen na een te lange tijd moeten weghalen bij spelers en het lange zoeken in de logs).
 6. Het is niet toegestaan te 'report spammen', je mag dus niet meerdere reports binnen 5 minuten maken.
 7. Het is niet toegestaan meerdere tickets aan te maken over hetzelfde scenario, of om een second opinion aan te vragen over unban tickets of refund tickets. Hier staat een ban van 1 dag op.
 8. In geen enkel geval is het toegestaan om eigenaren en/of staff een dm te sturen over een staffzaak. Gebeurt dit wel, dan staat daar een straf op van een ban voor 2 dagen.
@@ -330,7 +253,7 @@ Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als vol
 
 ---
 
-## Artikel 19 - Out Of Character
+## Artikel 18 - Out Of Character
 
 1. Het is niet toegestaan om je karakter te breken door OOC-informatie te gebruiken in-game.
 
@@ -344,7 +267,7 @@ Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als vol
 
 ---
 
-## Artikel 20 - Alternatieve karakters
+## Artikel 19 - Alternatieve karakters
 
 1. Het is niet toegestaan om gebruik te maken van alternatieve accounts ('alt accounts') om enig voordeel te behalen.
 
@@ -360,7 +283,7 @@ Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als vol
 
 ---
 
-## Artikel 21 - Voertuigen in gebouwen
+## Artikel 20 - Voertuigen in gebouwen
 
 1. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
 
@@ -369,7 +292,7 @@ Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als vol
 
 ---
 
-## Artikel 22 - Kledingregels
+## Artikel 21 - Kledingregels
 
 1. Het is niet toegestaan om de standaard-outfit te dragen tijdens roleplay scenario's. In het begin krijg je een menu waar je dit kan aanpassen. Mocht dat onverhoopt niet lukken wordt er verwacht dat jij naar een kledingwinkel gaat.
 2. Het is niet toegestaan om doorzichtige lichaamsdelen zoals armen, benen of torso te hebben.
@@ -382,7 +305,7 @@ Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als vol
 
 ---
 
-## Artikel 23 - Impersonatie overheidsmedewerker
+## Artikel 22 - Impersonatie overheidsmedewerker
 
 1. Het is niet toegestaan om jezelf te vermommen als een overheidsmedewerker en/of te suggereren dat je een overheidsmedewerker bent.
 2. Het is toegestaan om kogel- en steekwerende vesten te dragen, zolang dit geen verwijzing heeft naar een overheidsdienst.
@@ -392,7 +315,7 @@ Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als vol
 
 ---
 
-## Artikel 24 - Belediging
+## Artikel 23 - Belediging
 
 1. Het is niet toegestaan om aanstootgevende teksten te plaatsen of uit te spreken op welke mogelijke manier dan ook.
 
@@ -413,12 +336,11 @@ Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als vol
 
 ---
 
-## Artikel 25 - Pitten
+## Artikel 24 - Pitten
 
 1. Indien je een voertuig inzet om een zogenoemde pit uit te voeren is dit alleen toegestaan als de snelheid lager is dan 100 km/u en moet dit op een verantwoorde wijze gaan.
 2. Het is niet toegestaan om een pit uit te voeren met een voertuig wat veel kleiner of lichter is als het voertuig dat gepit wordt.
-3. Het is niet toegestaan om een pit uit te voeren op een motor aangezien de kans op dodelijk letsel te groot is. Dit wordt gezien als VDM (Artikel 24 - VDM).
-4. Politieagenten van de landelijke eenheid verkeerspolitie mogen een pit uitvoeren tot snelheden van 130 km/u. De dienst speciale interventies hebben een specialistische training gehad en mogen op uitzondering een pit uitvoeren tot snelheden van 150 km/u.
+3. Het is niet toegestaan om een pit uit te voeren op een motor aangezien de kans op dodelijk letsel te groot is. Dit wordt gezien als VDM (Artikel 11 - VDM).
 
 !!! danger "Straf"
     **Categorie 2:** een ban van maximaal 1 dag

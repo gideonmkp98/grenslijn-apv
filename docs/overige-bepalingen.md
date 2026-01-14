@@ -1,6 +1,6 @@
 # Overige Bepalingen
 
-## Artikel 41 - Bodycams
+## Artikel 38 - Bodycams
 
 1. Het gebruik van body- en/of dashcam beelden in een roleplay scenario is alleen toegestaan onder de volgende voorwaarden:
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Artikel 42 - Herkenning
+## Artikel 39 - Herkenning
 
 ### Stemherkenning
 
@@ -27,21 +27,16 @@
     - Indien een persoon een voice changer gebruikt ten behoeve van de roleplay, is het niet toegestaan de stem door de voice changer heen te herkennen
     - Een stem mag niet herkend worden wanneer iemand gezichtsbedekkende kleding draagt
 
-### Kledingherkenning
-
-2. Het is alleen toegestaan om iemand aan kledingstukken te herkennen indien de persoon geen gezichtsbedekkende kleding draagt en overduidelijk een identieke outfit heeft.
-3. Bij lid 1 en 2 moet altijd aantoonbaar zijn dat je de persoon daadwerkelijk in de roleplay kunt herkennen.
-
 ### Voice changer
 
-4. Het is toegestaan om een voice changer te gebruiken om jezelf onherkenbaar te maken. Dit is alleen toegestaan wanneer je nog steeds duidelijk verstaanbaar bent. Het gebruik van onrealistische geluidseffecten zoals robotstemmen, babystemmen of andere storende effecten is niet toegestaan.
+3. Het is toegestaan om een voice changer te gebruiken om jezelf onherkenbaar te maken. Dit is alleen toegestaan wanneer je nog steeds duidelijk verstaanbaar bent. Het gebruik van onrealistische geluidseffecten zoals robotstemmen, babystemmen of andere storende effecten is niet toegestaan.
 
 !!! danger "Straf"
     **Categorie 2:** een ban van maximaal 1 dag
 
 ---
 
-## Artikel 43 - Streamsniping
+## Artikel 40 - Streamsniping
 
 1. Het is niet toegestaan om informatie te gebruiken die je hebt verkregen uit een livestream van een content creator. Als je actief deze persoon opzoekt, probeert te benaderen of ons op een andere manier duidelijk wordt dat jij informatie verkrijgt via een livestream zal je een straf krijgen volgens de 5e categorie.
 
@@ -50,20 +45,20 @@
 
 ---
 
-## Artikel 44 - Wisselen van baan
+## Artikel 41 - Wisselen van baan
 
 1. De volgende wachttijden zijn van toepassing indien je wilt wisselen van baan:
 
 !!! info "Wachttijden"
     - **Overheidsbaan naar overheidsbaan** = 3 dagen
-    - **Overheidsbaan naar Criminele organisatie** = 7 dagen
+    - **Overheidsbaan naar Criminele organisatie** = 5 dagen
 
 2. Een uitzondering op de in lid 1 benoemde wachttijden kan worden genomen door het managementteam.
 3. Het is voor de leiding van overheidsorganisaties en criminele organisaties de verantwoordelijkheid om toezicht te houden op deze wachttijden.
 
 ---
 
-## Artikel 45 - Real life trading
+## Artikel 42 - Real life trading
 
 !!! warning "Inbeslagname zonder refund"
     Indien je een van deze regels overtreedt, worden de goederen in beslag genomen en wordt er geen refund verstrekt.
@@ -72,50 +67,42 @@
 2. Het is niet toegestaan om goederen van andere spelers aan te nemen of weg te geven wanneer deze de stad verlaten. Dit geldt voor ALLE goederen.
 3. Onder lid 1 en 2 valt ook het aanbieden of vragen naar dergelijke transacties.
 4. Het vragen naar startersgeld of vergelijkbare gunsten is niet toegestaan.
-5. De enige uitzondering op dit artikel geldt voor donatie-interieur. Deze mag in-game verkocht worden, mits de prijs realistisch is.
 
 !!! danger "Straf"
     **Categorie 7:** een permanente ban
 
 ---
 
-## Artikel 46 - Refunds
+## Artikel 43 - Refunds
 
 1. Refunds worden alleen verstrekt indien er voldoende bewijsmateriaal aanwezig is waaruit blijkt dat je de betreffende voorwerpen, valuta of andere zaken op een oneerlijke manier bent kwijtgeraakt. Het admin- en managementteam behouden zich het recht voor om een beslissing te nemen op basis van ontbrekend bewijs, server logs of andere informatie.
 2. Indien het admin- en/of managementteam oordeelt dat de betreffende voorwerpen, valuta of andere zaken door eigen schuld verloren zijn gegaan, kan de refund worden afgekeurd.
-3. Indien je een refund ticket aanmaakt voor items die je bent kwijtgeraakt, en er wordt geoordeeld dat je dit onterecht hebt aangevraagd (de spullen zijn op legitieme wijze kwijtgeraakt), ontvang je een time-out van 7 dagen in de Support Discord.
+3. Verdere regels omtrent tickets staan vermeld in de Support Discord.
 
 ---
 
-## Artikel 47 - Bedrijven/huizen
-
-1. Het is niet toegestaan voor groeperingen die bij elkaar horen om twee bedrijven in hun bezit te hebben.
-2. Het is niet toegestaan om tijdens een eigen transport de wapens/geld te rippen van het waardetransport.
-3. Het is niet toegestaan om meer dan 10 huizen/panden op je naam te hebben staan. Indien je meer dan 10 hebt zullen we deze willekeurig van je naam halen.
-
-!!! danger "Straf"
-    **Categorie 5:** een ban van maximaal 1 week
-
----
-
-## Artikel 48 - Greenzone
+## Artikel 44 - Greenzone
 
 1. Binnen de greenzone is het ten strengste verboden om mensen te ontvoeren, te bedreigen of op andere wijze hun vrijheid te beperken. Het respecteren van de persoonlijke veiligheid en vrijheid van anderen is essentieel voor het behouden van een veilige en vreedzame omgeving.
 2. Binnen de greenzone is het gebruik van geweld strikt gereguleerd. Schieten is alleen toegestaan in specifieke scenario's waarin een situatie binnen de greenzone verder escaleert en als laatste redmiddel om levens te beschermen. Alle andere vormen van geweld zijn verboden en moeten worden vermeden om een vreedzame omgeving te handhaven.
 3. Iedereen binnen de greenzone wordt verwacht zich aan de regels te houden en bij te dragen aan de algemene veiligheid en orde. Het negeren van de regels kan leiden tot passende sancties, variërend van waarschuwingen tot verwijdering uit de greenzone, afhankelijk van de ernst van de overtreding.
+
+!!! info "Uitzonderingen"
+    Greenzone regels zijn altijd van toepassing, tenzij een scenario door staff is goedgekeurd waarbij tijdelijk van deze regels mag worden afgeweken.
 
 ### Greenzone locaties
 
 4. De volgende locaties worden gezien als een greenzone:
 
 !!! info "Greenzone locaties"
-    - Pechhulp
+    - West Coast Mechanic
     - Ziekenhuis
     - Gemeentehuis
+    - Begraafplaats
 
 ---
 
-## Artikel 49 - Graphic packs
+## Artikel 45 - Graphic packs
 
 Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen een oneerlijk voordeel opleveren of de spelervaring voor anderen negatief beïnvloeden. Daarom is het gebruik van de volgende soorten graphic packs en beeldscherminstellingen verboden:
 
