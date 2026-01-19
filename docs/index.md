@@ -36,4 +36,6 @@ Gebruik het menu bovenaan om door de verschillende secties van de APV te naviger
 
 ---
 
-*Opgemaakt door Selena Ramirez - 2024*
+*Opgemaakt door Noa Junior - 2026*
+
+*© 2026 Grenslijn Roleplay. Alle rechten voorbehouden.*

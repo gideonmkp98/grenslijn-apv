@@ -252,3 +252,7 @@ Onder criminele activiteiten worden in deze context onder andere de volgende voo
     **Categorie 2:** een ban van maximaal 1 dag
 
 ---
+
+*Opgemaakt door Noa Junior - 2026*
+
+*© 2026 Grenslijn Roleplay. Alle rechten voorbehouden.*

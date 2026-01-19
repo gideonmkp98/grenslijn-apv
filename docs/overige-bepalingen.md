@@ -129,4 +129,6 @@ Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen
 
 ---
 
-*Opgemaakt door Selena Ramirez - 2024*
+*Opgemaakt door Noa Junior - 2026*
+
+*© 2026 Grenslijn Roleplay. Alle rechten voorbehouden.*
