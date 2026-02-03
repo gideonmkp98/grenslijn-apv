@@ -1,41 +1,50 @@
 # Algemene Plaatselijke Verordening van Grenslijn Roleplay
 
-Welkom bij de officiële Algemene Plaatselijke Verordening (APV) van Grenslijn Roleplay.
+De Hogeraad van Grenslijn Roleplay;
+
+Gelezen het voorstel van de Hogeraad en zijn staffleden over de Algemene Plaatselijke Verordening Grenslijn Roleplay;
+
+De Algemene Plaatselijke Verordening, als volgt vast te stellen.
 
 ## Over deze APV
 
-Deze APV bevat alle regels en richtlijnen die van toepassing zijn binnen Grenslijn Roleplay. Het is de verantwoordelijkheid van iedere speler om deze regels te kennen en strikt na te leven. Onwetendheid van de regels ontslaat niet van de verantwoordelijkheid.
+Deze APV bevat de bindende regels en voorschriften die van toepassing zijn binnen Grenslijn Roleplay. Iedere speler wordt geacht van deze APV kennis te hebben genomen en zich hieraan te conformeren. Het niet kennen, verkeerd interpreteren of niet volledig lezen van deze APV is geen geldige reden om onder verantwoordelijkheid, aansprakelijkheid of sancties uit te komen. 
 
 ## Strafbepalingen
 
 * **Categorie 1:** een waarschuwing
-* **Categorie 2:** een ban van maximaal 1 dag
-* **Categorie 3:** een ban van maximaal 2 dagen
-* **Categorie 4:** een ban van maximaal 3 dagen
-* **Categorie 5:** een ban van maximaal 1 week
-* **Categorie 6:** een ban van maximaal 1 maand
+* **Categorie 2:** een ban van 1 dag
+* **Categorie 3:** een ban van 2 dagen
+* **Categorie 4:** een ban van 3 dagen
+* **Categorie 5:** een ban van 1 week
+* **Categorie 6:** een ban van 1 maand
 * **Categorie 7:** permanente ban
 * **Categorie 8:** account wipe
 
 !!! warning "Belangrijk"
-    Een stafflid heeft de bevoegdheid om, op basis van de context, situatie of eerdere straffen/waarschuwingen van een overtreder, te beslissen om straffen te verhogen of te verlagen. Het stafflid heeft te allen tijde het recht om te bepalen of gedrag onder één van onderstaande artikelen valt en hier een passende straf op uit te delen.
-
-!!! info "Herhaalde overtredingen"
-    Wanneer je meerdere keren voor eenzelfde soort categorie bent gewaarschuwd of verbannen, wordt de straf progressief verhoogd. Bij herhaaldelijke bans bestaat de kans op een permanente ban.
+    Een stafflid heeft de bevoegdheid om, op basis van de omstandigheden van de situatie en eventuele eerdere sancties, straffen te verzwaren of te matigen. Het stafflid bepaalt te allen tijde of gedrag onder één van de onderstaande artikelen valt en legt hiervoor een passende sanctie op.
 
 !!! note "Interpretatieruimte"
-    Wanneer een situatie niet expliciet in de APV staat beschreven, zullen meerdere staffleden in overleg treden om de situatie te beoordelen. Hieruit volgt een passende actie en/of beslissing. Het kan dus voorkomen dat gedrag dat hier niet specifiek vermeld staat, alsnog consequenties heeft.
+    In gevallen waarin de APV niet voorziet, beslist een stafflid over een passende maatregel ook niet expliciet benoemd gedrag kan tot consequenties leiden. 
 
 ## Navigatie
 
 Gebruik het menu bovenaan om door de verschillende secties van de APV te navigeren:
 
-- **Openbare Orde** - Algemene gedragsregels en roleplay-standaarden
-- **Criminele Activiteiten** - Regels rondom illegale activiteiten en criminaliteit
-- **Overige Bepalingen** - Aanvullende regels en specifieke bepalingen
+- **Openbare Orde** - Algemene gedragsregels en roleplay-standaarden.
+- **Criminele Activiteiten** - Regels rondom illegale activiteiten en criminaliteit.
+- **Overige Bepalingen** - Aanvullende regels en specifieke bepalingen.
 
 ---
 
-*Opgemaakt door Noa Junior - 2026*
+## Privacyverklaring / disclaimer
+
+Grenslijn Roleplay verzamelt en verwerkt gegevens van spelers voor het waarborgen van de spelervaring, handhaving van de regels en het uitvoeren van stafftaken. Hieronder valt onder andere het registreren van ingame handelingen, logs en het observeren van spelers binnen de gameomgeving. 
+
+Deze gegevens worden uitsluitend gebruikt voor administratieve, handhavende en beveiligingsdoeleinden binnen Grenslijn Roleplay. Grenslijn Roleplay voert geen computerchecks uit en verkrijgt geen tot bestanden, software of andere gegevens  buiten de gameomgeving van spelers.
+
+Door deel te nemen aan Grenslijn Roleplay stemt men in met deze vorm van gegevensverwerking zoals hierboven omschreven. 
+
+*Opgemaakt door Jordy Kolb - 2026*
 
 *© 2026 Grenslijn Roleplay. Alle rechten voorbehouden.*
