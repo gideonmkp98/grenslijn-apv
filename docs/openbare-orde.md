@@ -149,6 +149,7 @@ Het is niet toegestaan een pit uit te voeren, behalve wanneer de snelheid lager 
 
 !!! example "Voorbeelden van verboden software"
     - Mod menu's (Eulen, Redengine, etc.).
+    - graphic packs (waar een oneerlijk voordeel uit gehaald kan worden)
     - Injectors.
     - Macro keys.
     - Autoclickers.
