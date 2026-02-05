@@ -12,14 +12,14 @@ Deze APV bevat de bindende regels en voorschriften die van toepassing zijn binne
 
 ## Strafbepalingen
 
-* **Categorie 1:** een waarschuwing
-* **Categorie 2:** een ban van 1 dag
-* **Categorie 3:** een ban van 2 dagen
-* **Categorie 4:** een ban van 3 dagen
-* **Categorie 5:** een ban van 1 week
-* **Categorie 6:** een ban van 1 maand
-* **Categorie 7:** permanente ban
-* **Categorie 8:** account wipe
+* **Categorie 1:** een waarschuwing. (optioneel zijn taken)
+* **Categorie 2:** een ban van 1 dag.
+* **Categorie 3:** een ban van 2 dagen.
+* **Categorie 4:** een ban van 3 dagen.
+* **Categorie 5:** een ban van 1 week.
+* **Categorie 6:** een ban van 1 maand.
+* **Categorie 7:** permanente ban.
+* **Categorie 8:** account wipe.
 
 !!! warning "Belangrijk"
     Een stafflid heeft de bevoegdheid om, op basis van de omstandigheden van de situatie en eventuele eerdere sancties, straffen te verzwaren of te matigen. Het stafflid bepaalt te allen tijde of gedrag onder één van de onderstaande artikelen valt en legt hiervoor een passende sanctie op.

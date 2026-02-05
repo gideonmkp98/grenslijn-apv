@@ -1,258 +1,138 @@
 # Criminele Activiteiten
 
-## Algemene informatie
+## Artikel C-1 - Eiland 
 
-1. Als de recherche voldoende bewijs heeft om een ganghuis binnen te vallen, mogen zij 50% van de gangkluis in beslag nemen plus de wapens en inventaris van de aanwezige personen.
-2. Zodra er een onderzoek loopt naar een persoon, heeft de politie 7 dagen de tijd om voertuigen en woningen te controleren na aanhouding van de betreffende persoon.
+Op het eiland gelden de volgende artikelen niet.
+
+!!! example "Artikelen die komen te vervallen eiland"
+    - Art. C-4 lid 1,2,3 & 4
+    - Art. C-5
+    - Art. C-7 (Iedereen mag worden overvallen)
 
 ---
 
-## Artikel 25 - Overvallen & Oplichten
+## Artikel C-2 - Ledenaantallen criminele organisaties 
 
-1. Het is alleen toegestaan om iemand te overvallen en/of te bestelen indien deze persoon bezig is met criminele activiteiten. Je moet hier concreet en aantoonbaar bewijs van hebben (beeldmateriaal), ook wanneer iemand via de radio meldt dat er criminele activiteiten plaatsvinden.
+Criminele Organisaties mogen maximaal vijfentwintig (25) leden hebben. Hieronder vallen ook de zogenoemde meelopers. 
 
-### Wat wordt verstaan onder criminele activiteiten?
+---
 
-Onder criminele activiteiten worden in deze context onder andere de volgende voorbeelden verstaan:
+## Artikel C-4 - Scammen, Overvallen & Oplichten
+
+1. Het is niet toegestaan te scammen, te overvallen en/of op te lichten, tenzij uitsluitend illegale of criminele goederen/activiteiten onderdeel zijn van de (trans)actie. 
+2. Het is niet toegestaan om binnen vijf (5) minuten na het verkrijgen van groen licht een setup te plaatsen; deze termijn vangt aan op het moment dat groen licht is verleend. 
+3. Het is niet toegestaan zonder groen licht te vertrekken met de buit, tenzij de politie vijftien (15) minuten op de plek aanwezig is. 
+4. Een overval mag gecounterd worden, totdat de politie is begonnen met de afzetting.
+5. Het is niet toegestaan om een overval te starten een half uur voor en een half uur na de restart.
+6. Het is niet toegestaan een persoon als gijzelaar te gebruiken indien deze een kennis is. 
+
+
+!!! danger "Sanctie"
+    **Categorie 3:** een ban van 2 dagen.
+
+---
+
+## Artikel C-5 - Verwerk locaties
+
+Het is niet toegestaan te stelen en/of overvallen op verwerklocaties.
+
+!!! danger "Sanctie"
+    **Categorie 2:** een ban van 1 dag.
+
+---
+
+## Artikel C-6 - Discord
+
+Deelnemers van officiële criminele organisaties zijn verplicht in de onderwereld Discord gebruik te maken van hun ingame porto. Het spraakkanaal is gemute. 
+
+!!! danger "Sanctie"
+    **Categorie 1:** een waarschuwing. 
+
+---
+
+## Artikel C-7 - Criminele activiteiten
+
+1. Het is toegestaan iemand te overvallen indien deze persoon bezig is met criminele activiteiten. 
+2. Het is niet toegestaan voertuigen verleend door legale werkgevers te gebruiken voor illegale praktijken.
 
 !!! example "Criminele activiteiten"
-    - Activiteiten rondom drugs, overvallen of witwassen  
-      **Let op:** Enkel rijden in een camper of het overladen van drugsgerelateerde spullen valt hier niet onder. Je moet iemand aantoonbaar hebben zien staan op een illegale locatie, zoals bij de pluk of verwerk, of horen praten over illegale praktijken
-    - Het dragen van volledig gezichtsbedekkende kleding (een motorhelm op een motor telt hier niet bij)
-    - Het dragen van een kogelwerend vest
-    - Het dragen van een wapenholster
-    - Het zichtbaar dragen van een wapen
-    - Het plegen van een zichtbaar misdrijf
+    - Activiteiten rondom drugs, overvallen of witwassen.
+    - Het dragen van volledig gezichtsbedekkende kleding. (een motorhelm op een motor telt hier niet bij)
+    - Het dragen van een kogelwerend vest.
+    - Het dragen van een wapenholster.
+    - Het dragen van zichtbare munitie.
+    - Het zichtbaar dragen van een wapen.
+    - Het plegen van een zichtbaar misdrijf.
 
-### Wat mag nooit worden gestolen of overvallen?
-
-3. De volgende zaken mogen nooit gestolen en/of overvallen worden:
-
-!!! danger "Verboden"
-    - Geld dat op de bank staat
-    - Drugsloodsen
-    - Voorwerpen en/of dienstwapens die behoren tot de uitvoering van een overheidsbaan
-    - Voertuigen in welke vorm dan ook
-    - Onder dwang iemands woning betreden en leegroven
-    - De inhoud van kluizen van verified of officiële gangs
-    - Als officiële gang je eigen klanten rippen bij het witwassen
-
-### Regels rondom scammen
-
-4. Je mag alleen scammen wanneer het om illegale goederen gaat, er een wapen bij betrokken is en je het binnen een roleplay scenario doet.
-
-!!! example "Voorbeeld"
-    A verkoopt een wapen aan B. B ript het wapen, of A ript het terug met behulp van anderen. Hands up is hierbij vereist.
-
-!!! warning "Let op"
-    Geld of spullen uitlenen is op EIGEN RISICO!
-
-5. Het oplichten met voertuigen is niet toegestaan. Hieronder valt het ruilen van auto's zonder deze te leveren, het verkopen van auto's zonder levering, of het liegen over tunes en de staat van het voertuig.
-
-!!! danger "Straf"
-    **Categorie 3:** een ban van maximaal 2 dagen
+!!! warning "Uitzonderingen op overvallen/stelen"
+    - Geld dat op de bank staat.
+    - Voorwerpen en/of dienstwapens die behoren tot de uitvoering van een overheidsbaan.
+    - Voertuigen zonder RP.
+    - Inhoud van een woning/opslag.
+    - De inhoud van kluizen van officiële gangs.
+    - Als officiële gang je eigen klanten rippen bij het witwassen & wapenverkoop.
 
 ---
 
-## Artikel 26 - Criminaliteit & Ambtenaren
+## Artikel C-8 - Criminaliteit & Ambtenaren
 
-1. Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook bezig te houden met illegale praktijken of illegale spullen in bezit te hebben, als dit niet ten behoeve is van de uitvoering van hun baan. Dit is op beoordeling van een stafflid. Voorafgaand aan de start bij de overheidsbaan is het vereist dat medewerkers geen illegale zaken meer in hun bezit hebben.
-2. Een uitzondering op deze regel is voor pechhulp. Als pechhulp medewerker is het toegestaan om actief te zijn in de onderwereld. Echter is corruptie als pechhulp medewerker nogsteeds NIET toegestaan.
+1. Het is niet toegestaan voor overheidsmedewerkers om zich bezig te houden met illegale praktijken of illegale goederen in bezit te hebben, tenzij dit noodzakelijk is voor de uitvoering van hun functie. 
+2. Het is niet toegestaan een overheidsfunctie te aanvaarden zolang men illegale goederen in bezit heeft. 
+
+!!! danger "Sanctie"
+    **Categorie 5:** een ban van 1 week.
 
 ### Organisaties van toepassing
 
-3. Organisaties die van toepassing zijn op lid 1 zijn:
-    - Politiekorps
-    - Ambulancezorg
+3. Organisaties die van toepassing zijn op lid 1 & 2 zijn:
+    - Politie
+    - Ambulance
     - Ministerie van Justitie
 
-4. Indien een overheidsmedewerker betrapt wordt op het bezighouden met illegale praktijk zal dit naast de basisstraf resulteren in ontslag op staande voet bij de organisatie in kwestie.
+---
 
-### Verboden objecten
+## Artikel C-9 - Overheidsvoertuigen
 
-5. Het is niet toegestaan om in het bezit te zijn van objecten die afkomstig zijn van een overheidsdienst, zoals onder andere maar niet beperkt tot:
+1. Het is niet toegestaan overheidsvoertuigen te tunen.
+2. Het is alleen toegestaan overheidsvoertuigen te besturen indien jij in dienst bent bij de desbetreffende overheidsdienst.
 
-!!! danger "Verboden objecten"
-    - Dienstwapens
-    - Medische tassen
-    - Repairkits
-    - Handboeien
+!!! example "Uitzondering"
+    - Wanneer de diefstal van een overheidsvoertuig en het eventueel besturen hiervan ten behoeve is van een goed roleplay scenario.
 
-6. Het is voor overheidsmedewerkers niet toegestaan om buiten hun dienst hun dienstwapens te dragen indien dit van toepassing is.
-7. Een uitzondering op lid 5 geldt voor medewerkers van de politie die een specialistische training hebben gehad. Deze medewerkers mogen wel hun dienstwapens buiten hun dienst dragen ten behoeve van overheidde uitvoering van het werk.
-
-!!! danger "Straf"
-    **Categorie 5:** een ban van maximaal 1 week
+!!! danger "Sanctie"
+    **Categorie 2:** een ban van 1 dag.
 
 ---
 
-## Artikel 27 - Overheidsvoertuigen
+## Artikel C-10 - Ontvoeren overheidsmedewerkers
 
-1. Het is niet toegestaan om overheidsvoertuigen te tunen.
-2. Het is alleen toegestaan om overheidsvoertuigen te besturen indien jij in dienst bent bij de desbetreffende overheidsdienst.
-3. Een uitzondering op lid 2 is wanneer de diefstal van een overheidsvoertuig en het eventueel besturen hiervan ten behoeve is van een goed roleplay scenario.
+1. Het ontvoeren van politieagenten is toegestaan, zolang er minimaal drie (3) agenten overblijven.
+2. Het ontvoeren van ambulancemedewerkers is toegestaan, zolang er minimaal twee (2) ambulancemedewerkers overblijven. 
+3. Het ontvoeren van mechanic's is toegestaan, zolang er minimaal een (1) mechanic overblijft. 
 
-!!! danger "Straf"
-    **Categorie 2:** een ban van maximaal 1 dag
-
----
-
-## Artikel 28 - Juist gebruik van baan voertuigen
-
-1. Het is verplicht om gebruik te maken van het voertuig wat je hebt gekregen van de werkgever indien dit van toepassing is.
-2. Het is niet toegestaan om voertuigen verleend door legale werkgevers te gebruiken voor illegale praktijken.
-
-!!! danger "Straf"
-    **Categorie 1:** een waarschuwing
+!!! danger "Sanctie"
+    **Categorie 1:** een waarschuwing. 
 
 ---
 
-## Artikel 29 - Overval Regels
+## Artikel C-11 - Ganghuizen en criminele organisaties 
 
-1. Het is de verplichting van de OC ('Operationeel Centrum') van de de politie en/of de KMar om een juiste en realistische inschatting te maken hoeveel agenten er nodig zijn voor een overval.
-2. Je krijgt per hostage 1 eisen. Er zit geen limiet op de maximaal aantal eisen.
+1. Wanneer de recherche voldoende bewijs heeft om een ganghuis binnen te vallen, mogen zij 50% van de gangkluis in beslag nemen plus de wapens en inventaris van de aanwezige personen.
+2. Het is niet toegestaan valse meldingen te creëren in de nabijheid van een ganghuis met als doel criminelen uit te lokken of rivaliserende groepen te benadelen. 
+3. Het is niet toegestaan voor criminele organisaties om samen te werken, waaronder begrepen maar niet beperkt tot het gezamenlijk plannen, uitvoeren of faciliteren van criminele activiteiten.
+4. Het is niet toegestaan een gangterrein binnen te vallen, tenzij hiervoor een geldige reden bestaat gericht op specifieke personen die zich op het terrein bevinden en/of hiervoor toestemming is verleend door staff. 
 
-### Verboden hostage locaties
-
-3. Het is niet toegestaan om hostages te pakken op de volgende plekken:
-
-!!! danger "Verboden locaties"
-    - In de kledingwinkel in het kledingmenu
-    - Locaties waar werkzaamheden gestart en beëindigd worden
-
-4. Zodra jij een overval doet en je krijgt groen licht mag er 5 min lang geen setup gegooid worden. De 5 min worden gerekend vanaf het moment dat er groen licht gegeven is. Indien je wel een setup doet, valt dit onder RDM/verstoren roleplay.
-5. Indien Politie/KMar bij een OV de gehele afzetting heeft geplaatst of er na 15 minuten nog geen Politie/KMar aanwezig is, mag er op eigen risico weggereden worden met de buit zonder groen licht.
+!!! danger "Sanctie"
+    **Categorie 5:** een ban van 1 week.
 
 ---
 
-## Artikel 30 - Wraak en liquidaties
+## Artikel C-12 - Campen
 
-1. Het is alleen toegestaan om iemand te liquideren als het slachtoffer in kennis is van de reden hierachter. Het is dus de bedoeling dat dit aan het slachtoffer duidelijk wordt gemaakt voor hij geliquideerd wordt.
-2. Wraak mag enkel binnen 48 uur na het scenario plaatsvinden, mits deze persoon ook echt in de stad is.
-
-!!! danger "Straf"
-    **Categorie 2:** een ban van maximaal 1 dag
+Het is toegestaan te campen op een locatie betrokken bij illegale praktijken met de intentie om bijvoorbeeld mensen te overvallen of te vermoorden.
 
 ---
 
-## Artikel 31 - Gedrag tegen overheidsmedewerkers
-
-1. Het is niet toegestaan om ambulancepersoneel te vermoorden, te beledigen of anderszins te hinderen.
-2. Er wordt verwacht dat je een eerlijke en realistische beschrijving geeft van je verwondingen wanneer je geholpen wordt door de ambulancezorg. Liegen over wat er is gebeurd is niet toegestaan.
-3. Ambulancepersoneel behoudt zich te allen tijde het recht om iemand dood te verklaren indien dit logischerwijs overeenkomt met de verwondingen.
-4. Het is niet toegestaan om ambulancepersoneel te dwingen iemand te reanimeren.
-5. Het is niet toegestaan om overheidsmedewerkers te dwingen criminele activiteiten uit te voeren.
-6. Het is verplicht om instructies van ambulancepersoneel op te volgen en mee te werken aan de medische roleplay.
-7. ANWB-personeel behoudt zich te allen tijde het recht voor om een voertuig mee te nemen indien dit zodanig beschadigd is dat het niet ter plaatse gerepareerd kan worden.
-8. Het is niet toegestaan om ANWB-personeel te dwingen een voertuig te repareren.
-9. Het is nooit toegestaan om een melding te maken naar een hulpdienst met als doel deze te ontvoeren, te overvallen, te vermoorden of anderszins te schaden.
-
-### Ontvoeren overheidsmedewerkers
-
-10. Het ontvoeren van politieagenten is toegestaan, zolang er minimaal 3 agenten in dienst overblijven.
-
-### Impound forceren
-
-11. Het is toegestaan om iemand van het politiekorps of KMar te ontvoeren om een voertuig uit de impound te forceren. De volgende voorwaarden zijn van toepassing:
-
-!!! warning "Voorwaarden"
-    - Je verliest het recht op een advocaat of bijstand van hOVJ (Hulp officier van justitie)
-    - Het openstaande bedrag voor de inbeslagname dient betaald te worden
-
-!!! danger "Straf"
-    **Categorie 2:** een ban van maximaal 1 dag
-
----
-
-## Artikel 32 - Basis criminele organisaties
-
-1. Met de term 'criminele organisaties' worden alle officiele & verified groeperingen bedoeld.
-2. Op het moment mogen criminele organisaties maximaal 25 leden hebben. Dit is inclusief leden die een proefperiode begaan bij een criminele organisatie en nog niet officieel zijn opgenomen binnen de organisatie.
-3. Bij overtreding van lid 2 zal in de basis een straf van de eerste categorie worden opgelegd aan het leiderschap van de organisatie. Indien het vaker voorkomt wordt deze straf logischerwijs opgeschaald naar een officiele waarschuwing voor de organisatie.
-4. Bij overtreding van lid 4 en/of 5 zullen de betreffende organisaties in de basis een straf van de eerste categorie krijgen. Indien het vaker voorkomt wordt deze straf logischerwijs opgeschaald naar een officiele waarschuwing voor alle betrokken criminele organisaties.
-
----
-
-## Artikel 33 - Gedrag criminele organisaties
-
-1. Van criminele organisaties (zoals benoemd in artikel 32 - basis criminele organisaties) wordt verwacht dat zij een voorbeeldige roleplay neerzetten.
-2. Indien leden van een criminele organisatie opmerkelijk veel in de aandacht komt bij het staffteam (op een negatieve manier) kan het managementteam contact opnemen met het leiderschap van de organisatie over de toekomst van dit lid en/of leden.
-3. Wanneer het managementteam van mening is dat een criminele organisatie niet past binnen het profiel, bijvoorbeeld door veel officiële groep waarschuwingen of individuele straffen, kunnen zij besluiten om een passende strafmaatregel op te leggen tegen (alle) leden van de betreffende criminele organisatie.
-4. Het beheer behoudt zich het recht om in het uiterste geval in lid 3 een criminele organisatie te schorsen wegens extreem wangedrag.
-
----
-
-## Artikel 34 - Regels criminele organisaties
-
-!!! warning "LET OP - ARTIKEL WORDT HERSCHREVEN"
-    **DIT ARTIKEL ZAL IN DE TOEKOMST VOLLEDIG HERSCHREVEN WORDEN.**
-    
-    Tot die tijd dient een stafflid naar eigen inzicht te handelen op basis van de situatie. De huidige regels hieronder zijn nog van toepassing, maar kunnen door staff worden aangepast afhankelijk van de context.
-
-1. Het creëren van valse meldingen in de buurt van een gang-huis met als doel criminelen uit te lokken of rivaliserende groepen in de problemen te brengen, is ten strengste verboden.
-2. Het is voor criminele organisaties niet toegestaan om samen te werken. Hieronder wordt verstaan maar niet beperkt tot:
-
-!!! danger "Verboden samenwerking"
-    - Zonder goede aanleiding samen in een portofoon zitten
-    - Samen overvallen plegen
-    - Samen scenario's neerzetten waarbij er voordeel voor beide groeperingen wordt behaald
-
-3. Het in beslag nemen van voertuigen door een officiële gang moet plaatsvinden via realistische en langdurige roleplay, niet met als hoofddoel geld verdienen.
-4. Indien er gedurende twee weken geen roleplay heeft plaatsgevonden met betrekking tot de inbeslagname van een voertuig, mag het voertuig kosteloos uit de garage worden gehaald.
-5. Het is alleen toegestaan om items, wapens en geld van een speler te confisqueren als dit gebeurt via roleplay. Het confisqueren van overheids objecten is niet toegestaan.
-
----
-
-## Artikel 35 - Overvallen
-
-1. Het is niet toegestaan om een overval te starten een half uur voor en een half uur na de restarts.
-
-!!! danger "Straf"
-    **Categorie 1:** een waarschuwing
-
-2. Er wordt verwacht dat er bij een overval door alle partijen logisch nagedacht wordt en er realistische beslissingen worden gemaakt. Hierbij is het belangrijk om zaken zoals no value of life, fail RP, powergaming in het achterhoofd te houden om het voor alle betrokken partijen zo leuk mogelijk te houden.
-3. Het is niet toegestaan om een hostage te rippen. Indien je iemand als hostage meeneemt, mag je diegene niet rippen na het fouilleren. Ook dien je de hostage gelegenheid te geven diens spullen veilig op te bergen. **Let op:** de hostage mag dit moment niet gebruiken weg te rennen.
-4. Het is niet toegestaan om iemand als gijzelaar in te zetten als dit een kennis van jou is. Dit moet dus een onbekend persoon zijn die jij op een eerlijke manier hebt ontvoerd.
-5. Eventueel NPC's die aanwezig zijn bij een winkeloverval tellen niet mee als gijzelaars.
-6. Het gebruik maken van outside hostages is alleen toegestaan indien er bewijs geleverd kan worden dat deze ook daadwerkelijk gijzel genomen zijn.
-7. Het is niet toegestaan om een onderhandelaar te gijzelen.
-8. Hypercars en supercars mogen niet gebruikt worden bij overvallen.
-9. Een overval mag gecounterd worden, totdat de politie is begonnen met de afzetting. **Indien de politie begonnen is met het neerzetten van de afzetting, moeten ze deze ook meteen afmaken!**
-10. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
-
-!!! danger "Straf"
-    **Categorie 4:** een ban van maximaal 3 dagen
-
----
-
-## Artikel 36 - Campen
-
-1. Het is niet toegestaan om te campen op een locatie betrokken bij illegale praktijken met de intentie om bijvoorbeeld mensen te overvallen of te vermoorden.
-
-!!! danger "Straf"
-    **Categorie 2:** een ban van maximaal 1 dag
-
----
-
-## Artikel 37 - Rippen
-
-1. Het is niet toegestaan om dezelfde persoon binnen een uur meerdere malen te overvallen en/of te gijzelen.
-2. Het is alleen toegestaan om iemand te rippen als deze bezig is met criminele praktijken zoals aangegeven in Artikel 26 - overvallen & oplichten.
-3. Iemand dwingen om zijn voertuig uit de garage te halen zonder scenario aan te gaan, is niet toegestaan. Dit mag alleen als je iemand zijn auto in de garage hebt zien zetten.
-4. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan.
-5. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
-6. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoordt, dien je de spullen te droppen.
-7. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
-8. Het is niet toegestaan om na een overval met een voertuig in of achter de achtervolging aan te rijden.
-
-!!! info "Bewijsplicht"
-    Een stafflid behoudt zich te allen tijde het recht om bewijs op te vragen van de situatie.
-
-!!! danger "Straf"
-    **Categorie 2:** een ban van maximaal 1 dag
-
----
-
-*Opgemaakt door Noa Junior - 2026*
+*Opgemaakt door Jordy Kolb - 2026*
 
 *© 2026 Grenslijn Roleplay. Alle rechten voorbehouden.*

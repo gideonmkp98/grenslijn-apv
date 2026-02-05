@@ -14,7 +14,7 @@ Het is niet toegestaan opzettelijk roleplay van gebrekkige kwaliteit te vertonen
 Het is niet toegestaan opzettelijk een scenario oneerlijk of onrealistisch te beïnvloeden, waaronder het uitoefenen van onrealistische dwang. 
 
 !!! danger "Sanctie"
-    **Categorie 2:** een ban van 1 dag.
+    **Categorie 3:** een ban van 2 dagen.
 
 ---
 
@@ -35,7 +35,7 @@ Het is niet toegestaan gebruik te maken van informatie die buiten het spel om is
 Het is niet toegestaan om je karakter te breken door OOC-informatie en termen te gebruiken in-game.
 
 !!! danger "Sanctie"
-    **Categorie 1:** een waarschuwing.
+    **Categorie 2:** een ban van 1 dag.
 
 ---
 
@@ -77,7 +77,7 @@ Het is niet toegestaan de stad te verlaten tijdens een actief scenario of binnen
 
 ## Artikel 8 - Combat-stashing
 
-Het is niet toegestaan gestolen voorwerpen of gebruikte wapen binnen 10 minuten na afloop van scenario op onbereikbare (huis en/of kofferbak) op te bergen. 
+Het is niet toegestaan voorwerpen, voertuigen of gebruikte wapens binnen 10 minuten na afloop van scenario op onbereikbare (huis, opslag, garage en/of kofferbak) op te bergen. 
 
 !!! danger "Sanctie"
     **Categorie 4:** een ban van 3 dagen.
@@ -125,7 +125,7 @@ Het is niet toegestaan gestolen voorwerpen of gebruikte wapen binnen 10 minuten 
 
 ## Artikel 13 - Pitten
 
-Het is niet toegestaan een pit uit te voeren, behalve wanneer de snelheid lager is dan 100 km/h en de manoeuvre op een verantwoorde wijze gebeurt. Pits mogen niet worden uitgevoerd met een kleiner of lichter voertuig dan het doelvoertuig en zijn verboden op motoren.
+Het is niet toegestaan een pit uit te voeren, behalve wanneer de snelheid lager is dan 100 km/h en de manoeuvre op een verantwoordelijke wijze gebeurt. Pits mogen niet worden uitgevoerd met een kleiner of lichter voertuig dan het doelvoertuig en zijn verboden op motoren.
 
 !!! danger "Sanctie"
     **Categorie 2:** een ban van 1 dag
@@ -226,10 +226,10 @@ Het is niet toegestaan zonder gegronde aanleiding iemand van het leven te berove
 1. De ingame /report functie is uitsluitend bedoeld om zaken ter plekke op te lossen. Elk misbruik van deze functie krijgt een sanctie. 
 2. Bij complexe zaken die niet via /report kunnen worden opgepakt dient altijd een ticket te worden gemaakt via de support discord van Grenslijn.
 3. /reports moeten te allen tijden beschouwd worden als OOC informatie en mag niet zonder toestemming van staff, ingame gedeeld worden met mede spelers.
-4. Tickets over een scenario moeten binnen 5 dagen na het betreffende scenario worden worden aangemaakt. 
+4. Tickets over een scenario moeten binnen 5 dagen na het betreffende scenario worden aangemaakt. 
 5. Tickets moeten zo compleet mogelijk worden gemaakt, denk daarbij aan clips (minimaal 2 min voor en 2 min na het voorval) ingame communicatie (/reports) en/of eerdere tickets of berichten van staff. 
 6. Refund tickets onder €10.000,- worden niet behandeld. 
-7. Onwaarheden, taggen, bedreigen en/of beledingen is niet toegestaan.
+7. Onwaarheden, taggen, bedreigen en/of beledigingen is niet toegestaan.
 8. Meerdere tickets over hetzelfde scenario zijn niet toegestaan. 
 9. Bij het niet voldoen van aanwijzingen van staff of het bovenstaande worden /reports en tickets meteen gesloten. 
 
