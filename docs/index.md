@@ -1,16 +1,18 @@
-# Algemene Plaatselijke Verordening van Grenslijn Roleplay
+# Algemene Plaatselijke Verordening van Unlimited Roleplay
 
-De Hogeraad van Grenslijn Roleplay;
+De Hogeraad van Unlimited Roleplay;
 
-Gelezen het voorstel van de Hogeraad en zijn staffleden over de Algemene Plaatselijke Verordening Grenslijn Roleplay;
+Gelezen het voorstel van de Hogeraad en zijn staffleden over de Algemene Plaatselijke Verordening Unlimited Roleplay;
 
 De Algemene Plaatselijke Verordening, als volgt vast te stellen.
 
 ## Over deze APV
 
-Deze APV bevat de bindende regels en voorschriften die van toepassing zijn binnen Grenslijn Roleplay. Iedere speler wordt geacht van deze APV kennis te hebben genomen en zich hieraan te conformeren. Het niet kennen, verkeerd interpreteren of niet volledig lezen van deze APV is geen geldige reden om onder verantwoordelijkheid, aansprakelijkheid of sancties uit te komen. 
+Deze APV bevat de bindende regels en voorschriften die van toepassing zijn binnen Unlimited Roleplay. Iedere speler wordt geacht van deze APV kennis te hebben genomen en zich hieraan te conformeren. Het niet kennen, verkeerd interpreteren of niet volledig lezen van deze APV is geen geldige reden om onder verantwoordelijkheid, aansprakelijkheid of sancties uit te komen.
 
 ## Strafbepalingen
+
+Deze strafcategorieën gelden voor alle artikelen van deze APV. Waar een artikel naar een andere bepaling verwijst, geldt de sanctie van die bepaling.
 
 * **Categorie 1:** een waarschuwing. (optioneel zijn taken)
 * **Categorie 2:** een ban van 1 dag.
@@ -35,16 +37,28 @@ Gebruik het menu bovenaan om door de verschillende secties van de APV te naviger
 - **Criminele Activiteiten** - Regels rondom illegale activiteiten en criminaliteit.
 - **Overige Bepalingen** - Aanvullende regels en specifieke bepalingen.
 
+## Gelijke behandeling
+
+Iedere speler wordt in gelijke gevallen gelijk behandeld. Discriminatie op grond van onder andere afkomst, geloof, geslacht, handicap of seksuele gerichtheid is niet toegestaan. Dit geldt binnen de stad en op de bijbehorende Discord-kanalen. Zie [artikel 24](openbare-orde.md#artikel-24-belediging).
+
+## Bewijs en afhandeling
+
+Een clipsysteem helpt bij het beoordelen van overtredingen, bugs en refund-aanvragen. Bewaar beeld en geluid met voldoende context; voor scenariotickets gelden de termijnen en bewijseisen van [artikel 22](openbare-orde.md#artikel-22-reports-en-tickets). Een opname voor staff is geen automatische bron van informatie voor je karakter; daarvoor gelden de [bodycamregels](overige-bepalingen.md#artikel-ov-4-bodycams).
+
+## Wijzigingen
+
+Het beheer kan deze APV aanpassen. De gepubliceerde versie is leidend. Spelers worden geacht wijzigingen bij te houden.
+
 ---
 
 ## Privacyverklaring / disclaimer
 
-Grenslijn Roleplay verzamelt en verwerkt gegevens van spelers voor het waarborgen van de spelervaring, handhaving van de regels en het uitvoeren van stafftaken. Hieronder valt onder andere het registreren van ingame handelingen, logs en het observeren van spelers binnen de gameomgeving. 
+Unlimited Roleplay verzamelt en verwerkt gegevens van spelers voor het waarborgen van de spelervaring, handhaving van de regels en het uitvoeren van stafftaken. Hieronder valt onder andere het registreren van ingame handelingen, logs en het observeren van spelers binnen de gameomgeving.
 
-Deze gegevens worden uitsluitend gebruikt voor administratieve, handhavende en beveiligingsdoeleinden binnen Grenslijn Roleplay. Grenslijn Roleplay voert geen computerchecks uit en verkrijgt geen tot bestanden, software of andere gegevens  buiten de gameomgeving van spelers.
+Deze gegevens worden uitsluitend gebruikt voor administratieve, handhavende en beveiligingsdoeleinden binnen Unlimited Roleplay. Unlimited Roleplay voert geen computerchecks uit en verkrijgt geen tot bestanden, software of andere gegevens  buiten de gameomgeving van spelers.
 
-Door deel te nemen aan Grenslijn Roleplay stemt men in met deze vorm van gegevensverwerking zoals hierboven omschreven. 
+Door deel te nemen aan Unlimited Roleplay stemt men in met deze vorm van gegevensverwerking zoals hierboven omschreven.
 
-*Opgemaakt door Jordy Kolb - 2026*
+*Opgemaakt door Yuna Solstice - 2026*
 
-*© 2026 Grenslijn Roleplay. Alle rechten voorbehouden.*
+*© 2026 Unlimited Roleplay. Alle rechten voorbehouden.*
